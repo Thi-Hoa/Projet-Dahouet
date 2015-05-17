@@ -1,5 +1,5 @@
 
-package com.thihoa.dahouet.utils;
+package com.thihoa.dahouet.tests;
 
 
 import java.util.regex.Matcher;
@@ -7,7 +7,7 @@ import java.util.regex.Pattern;
 
 /**
  *
- * @author DL07
+ * @author T
  */
 
 class Valid {

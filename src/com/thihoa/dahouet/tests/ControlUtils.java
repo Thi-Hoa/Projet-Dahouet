@@ -1,4 +1,6 @@
-package com.thihoa.dahouet.utils;
+package com.thihoa.dahouet.tests;
+
+import com.thihoa.dahouet.utils.*;
 
 /**
  *
